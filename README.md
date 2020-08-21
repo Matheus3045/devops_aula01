@@ -1,1 +1,1 @@
-Esse repositório é o primeiro da aula de Devops
+Esse repositório é o primeiro da aula de DevOps
